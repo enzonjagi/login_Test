@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275838632462",
+    "project_id": "loginformtest-afe2f",
+    "storage_bucket": "loginformtest-afe2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275838632462:android:adbf9562879ccaeca1325f",
+        "android_client_info": {
+          "package_name": "com.example.login_form_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275838632462-rdqe0fkgtekil2rp76aua7uamrumtm5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWPIH3Ia763gcbH_vgXMEIdczFqgnMfu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275838632462-rdqe0fkgtekil2rp76aua7uamrumtm5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
